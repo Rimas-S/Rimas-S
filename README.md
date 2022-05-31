@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Postgresql**
 
-- 💬 Ask me about **React, CSS, JavaScript**
+- 💬 Ask me about **React, CSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **aliyev.samirrr@gmail.com**
 
