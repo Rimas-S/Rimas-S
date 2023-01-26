@@ -1,7 +1,7 @@
 <h1 align="center"> 👋, I'm Samir</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-- 🔭 I’m currently working on [E-Commerce project](https://github.com/Rimas-S/E-commence-project-test-)
+- 🔭 I’m currently working on Rent APP (https://github.com/Rimas-S/E-commence-project-test-)
 
 - 🌱 I’m currently learning **Postgresql**
 
